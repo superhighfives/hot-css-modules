@@ -1,0 +1,10 @@
+.logo {
+  background: url('../images/logo-unbound.png') no-repeat;
+  background-size: 100%;
+  width: 62px;
+  height: 88px;
+}
+
+.heading {
+  font-size: 2em;
+}
