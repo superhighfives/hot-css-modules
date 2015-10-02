@@ -8,6 +8,6 @@ A hot-reloading webpack / css modules boilerplate.
 - Run `npm install`
 - Run `npm start`
 
-Visit [http://localhost:8888]()
+Visit http://localhost:8888
 
 Celebrate.
